@@ -600,11 +600,11 @@
       "spaces_within_catch_parentheses": false,
       "spaces_within_for_parentheses": false,
       "spaces_within_if_parentheses": false,
-      "spaces_within_imports": false,
+      "spaces_within_imports": true,
       "spaces_within_interpolation_expressions": false,
       "spaces_within_method_call_parentheses": false,
       "spaces_within_method_parentheses": false,
-      "spaces_within_object_literal_braces": false,
+      "spaces_within_object_literal_braces": true,
       "spaces_within_object_type_braces": true,
       "spaces_within_parentheses": false,
       "spaces_within_switch_parentheses": false,
@@ -818,6 +818,11 @@
       "indent_style": "space",
       "keep_indents_on_empty_lines": false,
       "smart_tabs": false,
+      "tab_width": 4
+    },
+    "graphql": {
+      "indent_size": 4,
+      "indent_style": "space",
       "tab_width": 4
     },
     "haml": {
